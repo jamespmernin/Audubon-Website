@@ -67,7 +67,7 @@ Build your app to the following mocks:
 Use the following for the initial state of your application:
 
 ```js
-const birds = [
+ [
   {
     name: "Acadian Flycatcher",
     genus: "Empidonax virescens",
